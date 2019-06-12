@@ -1,0 +1,3 @@
+Di training dulu untuk dapatkan modelnya
+Kl yg optimal yg dataset 15rb
+Kl mau yg cepat dataset 5rb
