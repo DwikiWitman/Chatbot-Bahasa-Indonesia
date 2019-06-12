@@ -1,0 +1,1 @@
+http://opus.nlpl.eu/download.php?f=OpenSubtitles/v2018/mono/OpenSubtitles.id.gz
