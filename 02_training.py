@@ -268,7 +268,7 @@ testY = encode_sequences(all_tokenizer, all_length, test[:, 1])
 testY = encode_output(testY, all_vocab_size)
 del test
 
-# define model
+# define model (yg bagian ini yg diedit sesuai kemauan dgn menyesuaikan pemanggilan function2 diatas)
 #raw_embedding = load_embedding('Word2vec/idwiki_word2vec.txt')
 #embedding_vectors = get_weight_matrix(raw_embedding, all_tokenizer.word_index)
 #model = define_model_embed(all_vocab_size, all_length, 100, encoder, decoder, embedding_vectors)
